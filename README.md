@@ -6,6 +6,7 @@ To run:
 3) MUST have Maven Version 3.6+
 4) Optional: Visual Studio Code
 
-Use this command below in terminal to run
+Use this command  in terminal to run: 
+
 mvn javafx:run 
 
